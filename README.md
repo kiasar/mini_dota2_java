@@ -22,6 +22,7 @@ the picture of the middle game is like this:
 ## Author
 
 * **Peyman Mohseni kiasari**
+* **Ali Nematichari**
 
 ## License
 
