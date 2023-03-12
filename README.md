@@ -5,7 +5,7 @@ This is a mini [DOTA2](http://blog.dota2.com/?l=english) game in Java that is gr
 ## code UML and class:
 ![](uml.png)
 ## How to run?
-Run **GameStarter.java** file two times (one for the server and one for the client). starting the game is fully pictured in Gif one.
+Run **GameStarter.java** file two times (one for the server, and one for the client). starting the game is fully pictured in Gif one.
 ## How to play?
 If you are familiar with [DOTA2](http://blog.dota2.com/?l=english), it would be easy for you to understand the game.
 There are two groups, humans and orc.
