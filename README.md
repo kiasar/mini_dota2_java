@@ -1,29 +1,39 @@
-# Mini DOTA2 game in Java
-This is a mini [DOTA2](http://blog.dota2.com/?l=english) game in Java that is graphic with JavaFX.
+# Mini DOTA2 Game in Java
+
+This project is a simplified DOTA2 game developed in Java and uses JavaFX for graphics.
+
 ## Prerequisites
-[ControlFX](https://github.com/controlsfx/controlsfx), it is really simple to install. Just download the Jar file and then add it to your project library. for example, if you use IntelliJ idea you can do it [this way](https://stackoverflow.com/questions/1051640/correct-way-to-add-external-jars-lib-jar-to-an-intellij-idea-project)
-## code UML and class:
+
+To run this game, you need [ControlFX](https://github.com/controlsfx/controlsfx). Download the JAR file and add it to your project's library. If you are using IntelliJ IDEA, follow these steps: [Add JAR in IntelliJ IDEA](https://stackoverflow.com/questions/1051640/correct-way-to-add-external-jars-lib-jar-to-an-intellij-idea-project).
+
+## Code Structure
+
+For an overview of the code, see the UML diagram here:
 ![](uml.png)
-## How to run?
-Run **GameStarter.java** file two times (one for the server, and one for the client). starting the game is fully pictured in Gif one.
-## How to play?
-If you are familiar with [DOTA2](http://blog.dota2.com/?l=english), it would be easy for you to understand the game.
-There are two groups, humans and orc.
-![humans and orc](info.png)
-now you can create towers and soldiers to fight and move your hero and hit the enemy. the goal is to destroy the enemies main building.
-the picture of the middle game is like this:
-![](mid.png)
-## Gifs:
-#### one: start
+
+## How to Run
+
+To start the game, run the **GameStarter.java** file twice - once for the server and once for the client. The process is shown in this GIF:
 ![](1.gif)
-#### two: you cand mode your hero with "W", "A", "S", "D" keys.
+
+## How to Play
+
+The game is easy to understand if you are familiar with [DOTA2](http://blog.dota2.com/?l=english). There are two teams: Humans and Orcs.
+![Humans and Orcs](info.png)
+
+Your objective is to create towers and soldiers, move your hero, attack the enemy, and destroy their main building. Here's a mid-game screenshot:
+![](mid.png)
+
+### Controls
+
+Control your hero using the "W", "A", "S", and "D" keys as shown in this GIF:
 ![](2.gif)
 
-## Author
+## Authors
 
-* **Peyman Mohseni kiasari**
-* **Ali Nematichari**
+- **Peyman Mohseni Kiasari**
+- **Ali Nematichari**
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License. For details, see the [LICENSE.md](LICENSE.md) file.
